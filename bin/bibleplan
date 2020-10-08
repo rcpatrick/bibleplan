@@ -1,0 +1,149 @@
+#!/bin/sh
+# Reads a delimited text file containing a daily Bible reading plan,
+# finds the line corresponding to the current date, extracts each
+# passage to be read, and sends them sequentially to the "kjv" program.
+# If given a date on $1, finds the reading for that date instead.
+# The -l option prints the passages listed for that date instead of
+# sending them to kjv.
+
+filedetails() {
+  delim=";" # character that separates fields in reading plan file
+  plandir="/usr/local/share/bibleplan" # path of plan directory
+  planfile="plan.txt" # name of plan file
+  case "$1" in
+    show) echo $plandir/$planfile ;;
+    edit) $EDITOR $plandir/$planfile ;;
+    make) makeplan $2 ;;
+  esac 
+}
+
+checkkjv() {
+  [ -z $(which kjv) ] && echo "bibleplan: Couldn't find kjv(1). Is it installed and in your \$PATH?" && exit
+}
+
+printweekdays() {
+  year="$1" && i=0
+  dayone="Mon"
+  daysperweek=5
+  while [ "$day" != "$dayone" ]
+  do
+    i=$((i+1)) && day=$(date -d "$year-01-0$i" +%a)
+  done
+  day="$year-01-0$i" && i=0 && j=0
+  while [ "$j" -lt 52 ]
+  do
+    i=0 && printf "\n"
+    while [ "$i" -lt $daysperweek ]
+    do
+      k=$((i+j*7)) && echo "$(date -d "$day + $k days" +%d%^b);" && i=$((i+1))
+    done
+    j=$((j+1)) && printf "\n"
+  done
+}
+
+makeplan() {
+  printweekdays $1 | paste - $plandir/5daytemplate.txt -d\  | sed -e 's/^ //g'
+}
+
+makeuppercase() {
+  echo "$1" | tr [:lower:] [:upper:]
+}
+
+todaydtg() {
+  month=`date +%^b` # current month in the form "JAN" "FEB" etc
+  day=`date +%d`    # day of month in the form "01" "31" etc
+  dtg=$day$month
+  echo $dtg
+}
+
+findpassages() {
+  # to do: implement regex handling for proper dates
+  dtg=$(makeuppercase $dtg)
+  todaysreading=$(cat $plandir/$planfile | grep $dtg)
+  [ -z "$todaysreading" ] && echo "No passages for $(echo $dtg | cut -c1,2) $(echo $dtg | cut -c3,4,5)." && exit 1
+}
+
+listpassages() {
+  filedetails
+  [ $# -eq 1 ] && dtg=$(paddtg $1) || dtg=$(todaydtg)
+  dtg=$(makeuppercase $dtg)
+  findpassages
+  echo "$todaysreading"
+  exit 0
+}
+
+paddtg() {
+  [ $(echo "$1" | wc -m ) = 5 ] && echo 0$1 || echo $1
+}
+
+readpassages() {
+  checkkjv
+  filedetails
+  [ $# -eq 1 ] && dtg=$(paddtg $1) || dtg=$(todaydtg)
+  dtg=$(makeuppercase $dtg)
+  [ $(echo -n "$dtg" | wc -c) = 4 ] && dtg=0$dtg
+  findpassages
+  i=1
+  numberofpassages=$(echo "$todaysreading" | grep -o $delim | wc -l)
+  while [ $i -lt $((numberofpassages+1)) ]
+  do
+    passage=$(echo $todaysreading | cut -f$((i+1)) -d$delim) # read j-th field
+    kjv $passage
+    i=$((i+1)) 
+  done
+}
+
+help() {
+  cat << EOF
+bibleplan - Follow a Bible-reading plan with kjv(1).
+Written 2020 by Ray Patrick.
+
+Usage:
+        $ bibleplan [date]
+                If assigned reading exists for [date], opens it in kjv(1).
+                If [date] is not given, looks up today's reading by
+                default. Dates may be of the form: 1jan, 01jan, 1JAN,
+                01JAN, etc.
+
+        $ bibleplan -l, --list [date]
+                Lists the assigned reading for [date]. If [date] is not
+                given, looks up today's reading by default.
+
+        $ bibleplan -f, --file
+                Shows the plan file that bibleplan is using.
+
+        $ bibleplan -e, --edit
+                Opens the current plan file in \$EDITOR.
+
+        $ bibleplan -m, --make [year]
+                Will make a new 5-day-per-week plan for [year].
+                The new plan will be emitted to stdout. You can do
+                something like:
+                          $ bibleplan -m 2021 > 2021plan.txt
+                to write the plan to a text file.
+
+        $ bibleplan -h, --help
+                Print this help and exit. See 'man bibleplan' for more
+                in-depth documentation.
+
+EOF
+}
+
+case "$1" in
+  -l) listpassages $2 ;;
+  --list) listpassages $2 ;;
+  -f) filedetails show ;; 
+  --file) filedetails show ;; 
+  -e) filedetails edit ;;
+  --edit) filedetails edit ;;
+  -m) filedetails make $2 ;;
+  --make) filedetails make $2 ;;
+  -h) help ;;
+  --help) help ;;
+  #*) readpassages $1 ;;
+  *) case "$2" in
+    -l) listpassages $1 ;;
+    --list) listpassages $1 ;;
+    *) readpassages $1 ;;
+  esac
+esac

@@ -1,0 +1,73 @@
+.TH BIBLEPLAN 1
+.SH NAME
+bibleplan \- Follow a Bible-reading plan with kjv(1).
+
+.SH USAGE
+.PP
+.B bibleplan [-efhlm] [date]
+
+.SH DESCRIPTION
+.PP
+.B bibleplan 
+allows you to follow a Bible-reading plan with
+.B kjv(1),
+right in your terminal!
+.PP
+The reading plan is a plain text file, located by default at
+/usr/local/share/bibleplan/plan.txt.
+Each day of assigned reading is represented by a line beginning with
+a date in DDMMM format (e.g. 06JAN), followed by Bible passages delimited
+by semicolons.
+.B bibleplan
+parses this text file, finds the line containing the current day's reading,
+extracts the relevant passages, and sends them one at a time to
+.B kjv(1).
+
+.SH COMMANDS
+.TP
+.B bibleplan [date]
+If assigned reading exists for [date], open it in kjv(1). If [date] is not
+given, uses the current date. Dates must be written in DDMMM format, but
+padding with zeros is not required. For example: 01JAN, 01jan, 1JAN, 1jan
+are all valid dates.
+
+.TP
+.B bibleplan -l, --list [date]
+Show the assigned reading for [date] instead of sending the passages to
+.B kjv(1).
+If [date] is not given, uses the current date.
+
+.TP
+.B bibleplan -f, --file
+Show the plan file that
+.B bibleplan
+is using. This file can be changed by editing the filedetails() function.
+
+.TP
+.B bibleplan -e, --edit
+Opens the current plan file in $EDITOR. The default plan file is
+.br
+/usr/local/share/bibleplan/plan.txt.
+
+.TP
+.B bibleplan -m, --make [year]
+Makes a new Bible-reading plan based on the 5-day-per-week template
+located by default at
+/usr/local/share/bibleplan/5daytemplate.txt
+and emits it to stdout. To write the new plan to a file, you could
+do something like:
+.br
+$ bibleplan --make 2021 > 2021.txt
+
+.TP
+.B bibleplan -h, --help
+Prints an abbreviated help screen to stdout.
+
+.SH AUTHOR
+Written by Ray Patrick <ray@raypatrick.xyz> in 2020.
+
+.SH LICENSE
+GPLv3
+
+.SH SEE ALSO
+.B date(1), kjv(1)
