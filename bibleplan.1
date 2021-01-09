@@ -2,9 +2,9 @@
 .SH NAME
 bibleplan \- Follow a Bible-reading plan with kjv(1).
 
-.SH USAGE
+.SH SYNOPSIS
 .PP
-.B bibleplan [-efhlm] [date]
+.B bibleplan [date] [-l, --list date] [-f, --file] [-e, --edit] [-m, --make year] [-h, --help]
 
 .SH DESCRIPTION
 .PP
@@ -23,7 +23,7 @@ parses this text file, finds the line containing the current day's reading,
 extracts the relevant passages, and sends them one at a time to
 .B kjv(1).
 
-.SH COMMANDS
+.SH OPTIONS
 .TP
 .B bibleplan [date]
 If assigned reading exists for [date], open it in kjv(1). If [date] is not
@@ -63,6 +63,28 @@ $ bibleplan --make 2021 > 2021.txt
 .B bibleplan -h, --help
 Prints an abbreviated help screen to stdout.
 
+.SH FILES
+.TP
+.B /usr/local/share/bibleplan/plan.txt
+Contains the current reading plan.
+.B bibleplan
+reads this file to look up passages for a given date.
+.TP
+.B /usr/local/share/bibleplan/5daytemplate.txt
+Contains the passages for the standard 5 day per week reading plan without
+any dates. When the
+.B --make
+option is passed,
+.B bibleplan
+uses the
+.B paste(1)
+utility to affix dates to the beginning of each line in the plan.
+
+.SH BUGS
+Please report any bugs via the author's email: <ray@raypatrick.xyz> and ensure you mention
+.B bibleplan
+somewhere in the subject line.
+
 .SH AUTHOR
 Written by Ray Patrick <ray@raypatrick.xyz> in 2020.
 
@@ -70,4 +92,4 @@ Written by Ray Patrick <ray@raypatrick.xyz> in 2020.
 GPLv3
 
 .SH SEE ALSO
-.B date(1), kjv(1)
+.B kjv(1), paste(1), date(1)
