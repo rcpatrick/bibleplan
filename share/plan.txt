@@ -1,363 +1,364 @@
 WEEK 1
-06JAN; Genesis 1-2; Psalm 19; Mark 1
-07JAN; Gen 3-5; Mark 2
-08JAN; Gen 6-8; Psalm 104; Mark 3
-09JAN; Gen 9-11; Mark 4
-10JAN; Gen 12-15; Psalm 148; Mark 5
+04JAN; Genesis 1-2; Psalm 19; Mark 1
+05JAN; Gen 3-5; Mark 2
+06JAN; Gen 6-8; Psalm 104; Mark 3
+07JAN; Gen 9-11; Mark 4
+08JAN; Gen 12-15; Psalm 148; Mark 5
 
 WEEK 2
-13JAN; Genesis 16-18; Mark 6
-14JAN; Gen 19-20; Psalm 1; Mark 7
-15JAN; Gen 21-23; Psalm 107; Mark 8
-16JAN; Gen 24-25; Psalm 4; Mark 9
-17JAN; Gen 26-27; Mark 10
+11JAN; Genesis 16-18; Mark 6
+12JAN; Gen 19-20; Psalm 1; Mark 7
+13JAN; Gen 21-23; Psalm 107; Mark 8
+14JAN; Gen 24-25; Psalm 4; Mark 9
+15JAN; Gen 26-27; Mark 10
 
 WEEK 3
-20JAN; Genesis 28-29; Mark 11
-21JAN; Gen 30-31; Psalm 11; Mark 12
-22JAN; Gen 32-34; Psalm 145; Mark 13
-23JAN; Gen 35-37; Psalm 12; Mark 14
-24JAN; Gen 38-40; Mark 15
+18JAN; Genesis 28-29; Mark 11
+19JAN; Gen 30-31; Psalm 11; Mark 12
+20JAN; Gen 32-34; Psalm 145; Mark 13
+21JAN; Gen 35-37; Psalm 12; Mark 14
+22JAN; Gen 38-40; Mark 15
 
 WEEK 4
-27JAN; Gen 41-42; Mark 16
-28JAN; Gen 43-44; Psalm 24; Galatians 1
-29JAN; Gen 45-46; Psalm 108; Gal 2
-30JAN; Gen 47-48; Psalm 25; Gal 3
-31JAN; Gen 49-50; Gal 4
+25JAN; Gen 41-42; Mark 16
+26JAN; Gen 43-44; Psalm 24; Galatians 1
+27JAN; Gen 45-46; Psalm 108; Gal 2
+28JAN; Gen 47-48; Psalm 25; Gal 3
+29JAN; Gen 49-50; Gal 4
 
 WEEK 5
-03FEB; Exodus 1-3; Gal 5
-04FEB; Exodus 4-6; Gal 6
-05FEB; Exodus 7-9; Psalm 105; Ephesians 1
-06FEB; Exodus 10-12; Eph 2
-07FEB; Exodus 13-15; Psalm 114; Eph 3
+01FEB; Exodus 1-3; Gal 5
+02FEB; Exodus 4-6; Gal 6
+03FEB; Exodus 7-9; Psalm 105; Ephesians 1
+04FEB; Exodus 10-12; Eph 2
+05FEB; Exodus 13-15; Psalm 114; Eph 3
 
 WEEK 6
-10FEB; Exodus 16-18; Eph 4
-11FEB; Exodus 19-21; Psalm 33; Eph 5
-12FEB; Exodus 22-24; Psalm 109; Eph 6
-13FEB; Exodus 25-27; Psalm 90; Philippians 1
-14FEB; Exodus 28-31; Philippians 2
+08FEB; Exodus 16-18; Eph 4
+09FEB; Exodus 19-21; Psalm 33; Eph 5
+10FEB; Exodus 22-24; Psalm 109; Eph 6
+11FEB; Exodus 25-27; Psalm 90; Philippians 1
+12FEB; Exodus 28-31; Philippians 2
 
 WEEK 7
-17FEB; Exodus 32-34; Philippians 3
-18FEB; Exodus 35-37; Psalm 26; Phil 4
-19FEB; Exodus 38-40; Hebrews 1
-20FEB; Leviticus 1-3; Psalm 27; Heb 2
-21FEB; Lev 4-7; Heb 3
+15FEB; Exodus 32-34; Philippians 3
+16FEB; Exodus 35-37; Psalm 26; Phil 4
+17FEB; Exodus 38-40; Hebrews 1
+18FEB; Leviticus 1-3; Psalm 27; Heb 2
+19FEB; Lev 4-7; Heb 3
 
 WEEK 8
-24FEB; Leviticus 8-11; Ps 110; Hebrews 4
-25FEB; Lev 12-14; Psalm 111; Heb 5
-26FEB; Lev 15-18; Psalm 31; Heb 6
-27FEB; Lev 19-20; Heb 7
-28FEB; Lev 21-23; Heb 8
+22FEB; Leviticus 8-11; Ps 110; Hebrews 4
+23FEB; Lev 12-14; Psalm 111; Heb 5
+24FEB; Lev 15-18; Psalm 31; Heb 6
+25FEB; Lev 19-20; Heb 7
+26FEB; Lev 21-23; Heb 8
 
 WEEK 9
-02MAR; Leviticus 24-25; Psalm 81; Hebrews 9
-03MAR; Lev 26-27; Psalm 112; Heb 10
-04MAR; Numbers 1-2; Psalm 64; Heb 11
-05MAR; Num 3-5; Heb 12
-06MAR; Num 6-7; Heb 13
+01MAR; Leviticus 24-25; Psalm 81; Hebrews 9
+02MAR; Lev 26-27; Psalm 112; Heb 10
+03MAR; Numbers 1-2; Psalm 64; Heb 11
+04MAR; Num 3-5; Heb 12
+05MAR; Num 6-7; Heb 13
 
 WEEK 10
-09MAR; Numbers 8-11; Colossians 1
-10MAR; Num 12-14; Psalm 28; Col 2
-11MAR; Num 15-18; Psalm 113; Col 3
-12MAR; Num 19-21; Col 4
-13MAR; Num 22-25; Luke 1
+08MAR; Numbers 8-11; Colossians 1
+09MAR; Num 12-14; Psalm 28; Col 2
+10MAR; Num 15-18; Psalm 113; Col 3
+11MAR; Num 19-21; Col 4
+12MAR; Num 22-25; Luke 1
 
 WEEK 11
-16MAR; Numbers 26-29; Luke 2
-17MAR; Num 30-33; Psalm 35; Luke 3
-18MAR; Num 34-36; Luke 4
-19MAR; Deuteronomy 1-3; Psalm 36; Luke 5
-20MAR; Deut 4-5; Luke 6
+15MAR; Numbers 26-29; Luke 2
+16MAR; Num 30-33; Psalm 35; Luke 3
+17MAR; Num 34-36; Luke 4
+18MAR; Deuteronomy 1-3; Psalm 36; Luke 5
+19MAR; Deut 4-5; Luke 6
 
 WEEK 12
-23MAR; Deut 6-9; Luke 7
-24MAR; Deut 10-14; Psalm 5; Luke 8
-25MAR; Deut 15-18; Psalm 115; Luke 9
-26MAR; Deut 19-22; Psalm 6; Luke 10
-27MAR; Deut 23-26; Luke 11
+22MAR; Deut 6-9; Luke 7
+23MAR; Deut 10-14; Psalm 5; Luke 8
+24MAR; Deut 15-18; Psalm 115; Luke 9
+25MAR; Deut 19-22; Psalm 6; Luke 10
+26MAR; Deut 23-26; Luke 11
 
 WEEK 13
-30MAR; Deut 27-31; Luke 12
-31MAR; Deut 32-34; Psalm 13; Luke 13
-01APR; Joshua 1-4; Psalm 143; Luke 14
-02APR; Joshua 5-8; Psalm 14; Luke 15
-03APR; Joshua 9-13; Luke 16
+29MAR; Deut 27-31; Luke 12
+30MAR; Deut 32-34; Psalm 13; Luke 13
+31MAR; Joshua 1-4; Psalm 143; Luke 14
+01APR; Joshua 5-8; Psalm 14; Luke 15
+02APR; Joshua 9-13; Luke 16
 
 WEEK 14
-06APR; Joshua 14-17; Luke 17
-07APR: Joshua 18-21; Psalm 15; Luke 18
-08APR; Joshua 22-24; Psalm 116; Luke 19
-09APR; Judges 1-3; Psalm 16; Luke 20
-10APR; Judges 4-6; Luke 21
+05APR; Joshua 14-17; Luke 17
+06APR; Joshua 18-21; Psalm 15; Luke 18
+07APR; Joshua 22-24; Psalm 116; Luke 19
+08APR; Judges 1-3; Psalm 16; Luke 20
+09APR; Judges 4-6; Luke 21
 
 WEEK 15
-13APR; Judges 7-8; Luke 22
-14APR; Judges 9-11; Psalm 17; Luke 23
-15APR; Judges 12-16; Psalm 146; Luke 24
-16APR; Judges 17-18; Psalm 21; Acts 1
-17APR; Judges 19-21; Acts 2
+12APR; Judges 7-8; Luke 22
+13APR; Judges 9-11; Psalm 17; Luke 23
+14APR; Judges 12-16; Psalm 146; Luke 24
+15APR; Judges 17-18; Psalm 21; Acts 1
+16APR; Judges 19-21; Acts 2
 
 WEEK 16
-20APR; Ruth 1-2; Acts 3
-21APR; Ruth 3-4; Psalm 37; Acts 4
-22APR; 1 Samuel 1-2; Psalm 120; Acts 5
-23APR; 1 Sam 3-5; Psalm 23; Acts 6
-24APR; 1 Sam 6-8; Acts 7
+19APR; Ruth 1-2; Acts 3
+20APR; Ruth 3-4; Psalm 37; Acts 4
+21APR; 1 Samuel 1-2; Psalm 120; Acts 5
+22APR; 1 Sam 3-5; Psalm 23; Acts 6
+23APR; 1 Sam 6-8; Acts 7
 
 WEEK 17
-27APR; 1 Sam 9-10; Acts 8
-28APR; 1 Sam 11-13; Psalm 38; Acts 9
-29APR; 1 Sam 14; Psalm 124; Acts 10
-30APR; 1 Sam 15-16; 1 Chr 1; Ps 39; Acts 11
-01MAY; 1 Sam 17; 1 Chr 2; Acts 12
+26APR; 1 Sam 9-10; Acts 8
+27APR; 1 Sam 11-13; Psalm 38; Acts 9
+28APR; 1 Sam 14; Psalm 124; Acts 10
+29APR; 1 Sam 15-16; 1 Chr 1; Ps 39; Acts 11
+30APR; 1 Sam 17; 1 Chr 2; Acts 12
 
 WEEK 18
-04MAY; 1 Sam 18-19; 1 Chr 3; Ps 59; Acts 13
-05MAY; 1 Sam 20; 1 Chr 4; Ps 56; Ps 57; Ps 142; Acts 14
-06MAY; 1 Sam 21-22; 1 Chr 5; Ps 52; Acts 15
-07MAY; 1 Sam 23-24; 1 Chr 6; Ps 54; Acts 16
-08MAY; 1 Sam 25; 1 Chr 7; Acts 17
+03MAY; 1 Sam 18-19; 1 Chr 3; Ps 59; Acts 13
+04MAY; 1 Sam 20; 1 Chr 4; Ps 56; Ps 57; Ps 142; Acts 14
+05MAY; 1 Sam 21-22; 1 Chr 5; Ps 52; Acts 15
+06MAY; 1 Sam 23-24; 1 Chr 6; Ps 54; Acts 16
+07MAY; 1 Sam 25; 1 Chr 7; Acts 17
 
 WEEK 19
-11MAY; 1 Sam 26-27; 1 Chr 8; Acts 18
-12MAY; 1 Sam 28-29; 1 Chr 9; Acts 19
-13MAY; 1 Sam 30-31; 1 Chr 10; Acts 20
-14MAY; 2 Sam 1-2; 1 Chr 11; Ps 96; Ps 106; Acts 21
-15MAY; 2 Sam 3-5; 1 Chr 12; Ps 122; Acts 22
+10MAY; 1 Sam 26-27; 1 Chr 8; Acts 18
+11MAY; 1 Sam 28-29; 1 Chr 9; Acts 19
+12MAY; 1 Sam 30-31; 1 Chr 10; Acts 20
+13MAY; 2 Sam 1-2; 1 Chr 11; Ps 96; Ps 106; Acts 21
+14MAY; 2 Sam 3-5; 1 Chr 12; Ps 122; Acts 22
 
 WEEK 20
-18MAY; 2 Sam 6; 1 Chr 13; Psalm 60; Acts 23
-19MAY; 1 Chr 14-16; Acts 24
-20MAY; 2 Sam 7-8; 1 Chr 17; Ps 132; Acts 25
-21MAY; 2 Sam 9-10; 1 Chr 18-19; Ps 89; Acts 26
-22MAY; 2 Sam 11-12; 1 Chr 20; Ps 51; Ps 32; Acts 27
+17MAY; 2 Sam 6; 1 Chr 13; Psalm 60; Acts 23
+18MAY; 1 Chr 14-16; Acts 24
+19MAY; 2 Sam 7-8; 1 Chr 17; Ps 132; Acts 25
+20MAY; 2 Sam 9-10; 1 Chr 18-19; Ps 89; Acts 26
+21MAY; 2 Sam 11-12; 1 Chr 20; Ps 51; Ps 32; Acts 27
 
 WEEK 21
-25MAY; 2 Sam 13-14; Acts 28
-26MAY; 2 Sam 15-17; Ps 3; Ps 63; Romans 1
-27MAY; 2 Sam 18-20; Ps 34; Rom 2
-28MAY; 2 Sam 21-23; Ps 18; Rom 3
-29MAY; 2 Sam 24; 1 Chr 21; Rom 4
+24MAY; 2 Sam 13-14; Acts 28
+25MAY; 2 Sam 15-17; Ps 3; Ps 63; Romans 1
+26MAY; 2 Sam 18-20; Ps 34; Rom 2
+27MAY; 2 Sam 21-23; Ps 18; Rom 3
+28MAY; 2 Sam 24; 1 Chr 21; Rom 4
 
 WEEK 22
-01JUN; 1 Chr 22-25; Ps 78; Rom 5
-02JUN; 1 Kings 1; 1 Chr 26-28; Rom 6
-03JUN; 1 Kings 2; 1 Chr 29; Rom 7
-04JUN; 1 Kings 3; 2 Chr 1; Ps 42; Rom 8
-05JUN; 1 Kings 4; Prov 1-2; Psalm 43; Rom 9
+31MAY; 1 Chr 22-25; Ps 78; Rom 5
+01JUN; 1 Kings 1; 1 Chr 26-28; Rom 6
+02JUN; 1 Kings 2; 1 Chr 29; Rom 7
+03JUN; 1 Kings 3; 2 Chr 1; Ps 42; Rom 8
+04JUN; 1 Kings 4; Prov 1-2; Psalm 43; Rom 9
 
 WEEK 23
-08JUN; Prov 3-5; Rom 10
-09JUN; Prov 6-7; Ps 7; Rom 11
-10JUN; Prov 8-10; Ps 144; Rom 12
-11JUN; Prov 11-13; Ps 8; Rom 13
-12JUN; Prov 14-15; Rom 14
+07JUN; Prov 3-5; Rom 10
+08JUN; Prov 6-7; Ps 7; Rom 11
+09JUN; Prov 8-10; Ps 144; Rom 12
+10JUN; Prov 11-13; Ps 8; Rom 13
+11JUN; Prov 14-15; Rom 14
 
 WEEK 24
-15JUN; Prov 16-18; Rom 15
-16JUN; Prov 19-21; Ps 40; Rom 16
-17JUN; Prov 22-23; Ps 117; 1 Thess 1
-18JUN; Prov 24-25; Ps 41; 1 Thess 2
-19JUN; Prov 26-28; 1 Thess 3
+14JUN; Prov 16-18; Rom 15
+15JUN; Prov 19-21; Ps 40; Rom 16
+16JUN; Prov 22-23; Ps 117; 1 Thess 1
+17JUN; Prov 24-25; Ps 41; 1 Thess 2
+18JUN; Prov 26-28; 1 Thess 3
 
 WEEK 25
-22JUN; Prov 29-31; 1 Thess 4
-23JUN; Song of Solomon 1-3; Ps 72; 1 Thess 5
-24JUN; Song 4-6; 2 Thess 1
-25JUN; Song 7-8; Ps 127; 2 Thess 2
-26JUN; 1 Kings 5; 2 Chr 2; 2 Thess 3
+21JUN; Prov 29-31; 1 Thess 4
+22JUN; Song of Solomon 1-3; Ps 72; 1 Thess 5
+23JUN; Song 4-6; 2 Thess 1
+24JUN; Song 7-8; Ps 127; 2 Thess 2
+25JUN; 1 Kings 5; 2 Chr 2; 2 Thess 3
 
 WEEK 26
-29JUN; 1 Kings 6; 2 Chr 3; 1 Timothy 1
-30JUN; 1 Kings 7; 2 Chr 4; Psalm 44; 1 Tim 2
-01JUL; 1 Kings 8; Psalm 30; 1 Tim 3
-02JUL; 2 Chr 5-7; Psalm 121; 1 Tim 4
-03JUL; 1 Kings 9; 2 Chr 8; 1 Tim 5
+28JUN; 1 Kings 6; 2 Chr 3; 1 Timothy 1
+29JUN; 1 Kings 7; 2 Chr 4; Psalm 44; 1 Tim 2
+30JUN; 1 Kings 8; Psalm 30; 1 Tim 3
+01JUL; 2 Chr 5-7; Psalm 121; 1 Tim 4
+02JUL; 1 Kings 9; 2 Chr 8; 1 Tim 5
 
 WEEK 27
-06JUL; 1 Kings 10-11; 2 Chr 9; 1 Tim 6
-07JUL; Ecclesiastes 1-3; Psalm 45; 2 Tim 1
-08JUL; Eccl 4-6; Psalm 125; 2 Tim 2
-09JUL; Eccl 7-9; Psalm 46; 2 Tim 3
-10JUL; Eccl 10-12; 2 Tim 4
+05JUL; 1 Kings 10-11; 2 Chr 9; 1 Tim 6
+06JUL; Ecclesiastes 1-3; Psalm 45; 2 Tim 1
+07JUL; Eccl 4-6; Psalm 125; 2 Tim 2
+08JUL; Eccl 7-9; Psalm 46; 2 Tim 3
+09JUL; Eccl 10-12; 2 Tim 4
 
 WEEK 28
-13JUL; 1 Kings 12; 2 Chr 10-11; Titus 1
-14JUL; 1 Kings 13-14; 2 Chr 12; Ps 47; Titus 2
-15JUL; 1 Kings 15; 2 Chr 13-14; Titus 3
-16JUL; 2 Chr 15-16; 1 Kings 16; Philemon
-17JUL; 1 Kings 17-18; Ps 119; Jude
+12JUL; 1 Kings 12; 2 Chr 10-11; Titus 1
+13JUL; 1 Kings 13-14; 2 Chr 12; Ps 47; Titus 2
+14JUL; 1 Kings 15; 2 Chr 13-14; Titus 3
+15JUL; 2 Chr 15-16; 1 Kings 16; Philemon
+16JUL; 1 Kings 17-18; Ps 119; Jude
 
 WEEK 29
-20JUL; 1 Kings 19-21; 2 Chr 17; Ps 129; Matt 1
-21JUL; 1 Kings 22; 2 Chr 18; Matt 2
-22JUL; 2 Chr 19-20; 2 Kings 1; Psalm 20; Matt 3
-23JUL; 2 Kings 2-3; Psalm 48; Matt 4
-24JUL; 2 Kings 4-6; Matt 5
+19JUL; 1 Kings 19-21; 2 Chr 17; Ps 129; Matt 1
+20JUL; 1 Kings 22; 2 Chr 18; Matt 2
+21JUL; 2 Chr 19-20; 2 Kings 1; Psalm 20; Matt 3
+22JUL; 2 Kings 2-3; Psalm 48; Matt 4
+23JUL; 2 Kings 4-6; Matt 5
 
 WEEK 30
-27JUL; 2 Kings 7-8; 2 Chr 21; Matt 6
-28JUL; 2 Kings 9-10; Psalm 49; Matt 7
-29JUL; 2 Chr 22-23; 2 Kings 11; Ps 131; Matt 8
-30JUL; 2 Chr 24; 2 Kings 12; Psalm 50; Matt 9
-31JUL; Joel; Matt 10
+26JUL; 2 Kings 7-8; 2 Chr 21; Matt 6
+27JUL; 2 Kings 9-10; Psalm 49; Matt 7
+28JUL; 2 Chr 22-23; 2 Kings 11; Ps 131; Matt 8
+29JUL; 2 Chr 24; 2 Kings 12; Psalm 50; Matt 9
+30JUL; Joel; Matt 10
 
 WEEK 31
-03AUG; Jonah; Matt 11
-04AUG; 2 Kings 13-14; 2 Chr 25; Ps 53; Matt 12
-05AUG; Amos 1-3; Matt 13
-06AUG; Amos 4-6; Psalm 55; Matt 14
-07AUG; Amos 7-9; Matt 15
+02AUG; Jonah; Matt 11
+03AUG; 2 Kings 13-14; 2 Chr 25; Ps 53; Matt 12
+04AUG; Amos 1-3; Matt 13
+05AUG; Amos 4-6; Psalm 55; Matt 14
+06AUG; Amos 7-9; Matt 15
 
 WEEK 32
-10AUG; Hosea 1-3; Matt 16
-11AUG; Hosea 4-6; Psalm 58; Matt 17
-12AUG; Hosea 7-10; Matt 18
-13AUG; Hosea 11-13; Matt 19
-14AUG; Hosea 14; 2 Chr 26-27; Ps 61; Matt 20
+09AUG; Hosea 1-3; Matt 16
+10AUG; Hosea 4-6; Psalm 58; Matt 17
+11AUG; Hosea 7-10; Matt 18
+12AUG; Hosea 11-13; Matt 19
+13AUG; Hosea 14; 2 Chr 26-27; Ps 61; Matt 20
 
 WEEK 33
-17AUG; 2 Kings 15-16; Matt 21
-18AUG; Isaiah 1-3; Psalm 9; Matt 22
-19AUG; Isaiah 4-6; Matt 23
-20AUG; Micah 1-4; Psalm 10; Matt 24
-21AUG; Micah 5-7; Matt 25
+16AUG; 2 Kings 15-16; Matt 21
+17AUG; Isaiah 1-3; Psalm 9; Matt 22
+18AUG; Isaiah 4-6; Matt 23
+19AUG; Micah 1-4; Psalm 10; Matt 24
+20AUG; Micah 5-7; Matt 25
 
 WEEK 34
-24AUG; Isaiah 7-10; Psalm 22; Matt 26
-25AUG; Isa 11-13; Psalm 118; Matt 27
-26AUG; Isa 14-16; Matt 28
-27AUG; Isa 17-19; Psalm 62; 1 Cor 1
-28AUG; Isa 20-22; 1 Cor 2
+23AUG; Isaiah 7-10; Psalm 22; Matt 26
+24AUG; Isa 11-13; Psalm 118; Matt 27
+25AUG; Isa 14-16; Matt 28
+26AUG; Isa 17-19; Psalm 62; 1 Cor 1
+27AUG; Isa 20-22; 1 Cor 2
 
 WEEK 35
-31AUG; Isaiah 23-25; 1 Cor 3
-01SEP; Isa 26-29; Psalm 65; 1 Cor 4
-02SEP; Isa 30-32; 1 Cor 5
-03SEP; Isa 33-35; 1 Cor 6
-04SEP; 2 Chr 28; 2 Kings 17; Psalm 66; 1 Cor 7
+30AUG; Isaiah 23-25; 1 Cor 3
+31AUG; Isa 26-29; Psalm 65; 1 Cor 4
+01SEP; Isa 30-32; 1 Cor 5
+02SEP; Isa 33-35; 1 Cor 6
+03SEP; 2 Chr 28; 2 Kings 17; Psalm 66; 1 Cor 7
 
 WEEK 36
-07SEP; 2 Chr 29-31; 1 Cor 8
-08SEP; 2 Kings 18-19; 2 Chr 32; Ps 67; 1 Cor 9
-09SEP; Isa 36-37; Psalm 123; 1 Cor 10
-10SEP; 2 Kings 20; Isa 38-40; Ps 68; 1 Cor 11
-11SEP; Isa 41-44; 1 Cor 12
+06SEP; 2 Chr 29-31; 1 Cor 8
+07SEP; 2 Kings 18-19; 2 Chr 32; Ps 67; 1 Cor 9
+08SEP; Isa 36-37; Psalm 123; 1 Cor 10
+09SEP; 2 Kings 20; Isa 38-40; Ps 68; 1 Cor 11
+10SEP; Isa 41-44; 1 Cor 12
 
 WEEK 37
-14SEP; Isa 45-48; 1 Cor 13
-15SEP; Isa 49-52; Psalm 69; 1 Cor 14
-16SEP; Isa 53-55; Psalm 128; 1 Cor 15
-17SEP; Isa 56-59; Psalm 70; 1 Cor 16
-18SEP; Is 60-63; 2 Cor 1
+13SEP; Isa 45-48; 1 Cor 13
+14SEP; Isa 49-52; Psalm 69; 1 Cor 14
+15SEP; Isa 53-55; Psalm 128; 1 Cor 15
+16SEP; Isa 56-59; Psalm 70; 1 Cor 16
+17SEP; Is 60-63; 2 Cor 1
 
 WEEK 38
-21SEP; Isa 64-66; 2 Cor 2
-22SEP; 2 Kings 21; 2 Chr 33; Ps 71; 2 Cor 3
-23SEP; Nahum; Psalm 149; 2 Cor 4
-24SEP; 2 Kings 22-23; Psalm 73; 2 Cor 5
-25SEP; 2 Chr 34-35; 2 Cor 6
+20SEP; Isa 64-66; 2 Cor 2
+21SEP; 2 Kings 21; 2 Chr 33; Ps 71; 2 Cor 3
+22SEP; Nahum; Psalm 149; 2 Cor 4
+23SEP; 2 Kings 22-23; Psalm 73; 2 Cor 5
+24SEP; 2 Chr 34-35; 2 Cor 6
 
 WEEK 39
-28SEP; Habakkuk; 2 Cor 7
-29SEP; Zephaniah; Psalm 74; 2 Cor 8
-30SEP; Jeremiah 1-4; Psalm 130; 2 Cor 9
-01OCT; Jer 5-7; Psalm 75; 2 Cor 10
-02OCT; Jer 8-10; 2 Cor 11
+27SEP; Habakkuk; 2 Cor 7
+28SEP; Zephaniah; Psalm 74; 2 Cor 8
+29SEP; Jeremiah 1-4; Psalm 130; 2 Cor 9
+30SEP; Jer 5-7; Psalm 75; 2 Cor 10
+01OCT; Jer 8-10; 2 Cor 11
 
 WEEK 40
-05OCT; Jer 11-13; 2 Cor 12
-06OCT; Jer 14-16; Psalm 76; 2 Cor 13
-07OCT; Jer 17-20; James 1
-08OCT; Jer 22, 23, 26; Psalm 77; James 2
-09OCT; Jer 25, 35, 36, 45; Ps 133; James 3
+04OCT; Jer 11-13; 2 Cor 12
+05OCT; Jer 14-16; Psalm 76; 2 Cor 13
+06OCT; Jer 17-20; James 1
+07OCT; Jer 22-23; Jer 26; Psalm 77; James 2
+08OCT; Jer 25; Jer 35-36; Jer 45; Ps 133; James 3
 
 WEEK 41
-12OCT; Jer 27, 28, 29, 24; James 4
-13OCT; Jer 37, 21, 34; Psalm 79; James 5
-14OCT; Jer 30-33; 1 Peter 1
-15OCT; Jer 38, 39, 52; 1 Pet 2
-16OCT; 2 Kin 24-25; 2 Chr 36; Ps 126; 1 Pt 3
+11OCT; Jer 27-29; Jer 24; James 4
+12OCT; Jer 37; Jer 21; Jer 34; Psalm 79; James 5
+13OCT; Jer 30-33; 1 Peter 1
+14OCT; Jer 38-39; Jer 52; 1 Pet 2
+15OCT; 2 Kin 24-25; 2 Chr 36; Ps 126; 1 Pet 3
 
 WEEK 42
-19OCT; Lamentations; Psalm 137; 1 Peter 4
-20OCT; Obadiah; Jer 40-42; Ps 147; 1 Pet 5
-21OCT; Jer 43, 44, 46; 2 Pet 1
-22OCT; Jer 47, 48, 49; Ps 80; 2 Pet 2
-23OCT; Jer 50-51; 2 Pet 3
+18OCT; Lamentations; Psalm 137; 1 Peter 4
+19OCT; Obadiah; Jer 40-42; Ps 147; 1 Pet 5
+20OCT; Jer 43-44; Jer 46; 2 Pet 1
+21OCT; Jer 47-49; Ps 80; 2 Pet 2
+22OCT; Jer 50-51; 2 Pet 3
 
 WEEK 43
-26OCT; Ezekiel 1-3; John 1
-27OCT; Ezek 4-6; Psalm 82; John 2
-28OCT; Ezek 7-9; John 3
-29OCT; Ezek 10-12; Psalm 83; John 4
-30OCT; Ezek 13-15; Psalm 136; John 5
+25OCT; Ezekiel 1-3; John 1
+26OCT; Ezek 4-6; Psalm 82; John 2
+27OCT; Ezek 7-9; John 3
+28OCT; Ezek 10-12; Psalm 83; John 4
+29OCT; Ezek 13-15; Psalm 136; John 5
 
 WEEK 44
-02NOV; Ezekiel 16-18; John 6
-03NOV; Ezek 19-21; Psalm 84; John 7
-04NOV; Ezek 22-24; Psalm 134; John 8
-05NOV; Ezek 25-27; Psalm 85; John 9
-06NOV; Ezek 28-30; John 10
+01NOV; Ezekiel 16-18; John 6
+02NOV; Ezek 19-21; Psalm 84; John 7
+03NOV; Ezek 22-24; Psalm 134; John 8
+04NOV; Ezek 25-27; Psalm 85; John 9
+05NOV; Ezek 28-30; John 10
 
 WEEK 45
-09NOV; Ezekiel 31-33; John 11
-10NOV; Ezek 34-36; Psalm 86; John 12
-11NOV; Ezek 37-39; Psalm 87; John 13
-12NOV; Ezek 40-42; John 14
-13NOV; Ezek 43-45; Psalm 135; John 15
+08NOV; Ezekiel 31-33; John 11
+09NOV; Ezek 34-36; Psalm 86; John 12
+10NOV; Ezek 37-39; Psalm 87; John 13
+11NOV; Ezek 40-42; John 14
+12NOV; Ezek 43-45; Psalm 135; John 15
 
 WEEK 46
-16NOV; Ezekiel 46-48; John 16
-17NOV; Daniel 1-3; Psalm 88; John 17
-18NOV; Dan 4-6; John 18
-19NOV; Dan 7-9; Psalm 91; John 19
-20NOV; Dan 10-12; John 20
+15NOV; Ezekiel 46-48; John 16
+16NOV; Daniel 1-3; Psalm 88; John 17
+17NOV; Dan 4-6; John 18
+18NOV; Dan 7-9; Psalm 91; John 19
+19NOV; Dan 10-12; John 20
 
 WEEK 47
-23NOV; Ezra 1-2; John 21
-24NOV; Ezra 3-4; Psalm 92; 1 John 1
-25NOV; Haggai; Zechariah 1; Ps 138; 1 John 2
-26NOV; Zech 2-5; Psalm 93; 1 John 3
-27NOV; Zech 6-8; 1 John 4
+22NOV; Ezra 1-2; John 21
+23NOV; Ezra 3-4; Psalm 92; 1 John 1
+24NOV; Haggai; Zechariah 1; Ps 138; 1 John 2
+25NOV; Zech 2-5; Psalm 93; 1 John 3
+26NOV; Zech 6-8; 1 John 4
 
 WEEK 48
-30NOV; Zech 9-11; 1 John 5
-01DEC; Zech 12-14; Psalm 94; 2 John
-02DEC; Ezra 5-6; Psalm 95; 3 John
-03DEC; Esther 1-3; Psalm 139; Revelation 1
-04DEC; Esther 4-6; Rev 2
+29NOV; Zech 9-11; 1 John 5
+30NOV; Zech 12-14; Psalm 94; 2 John
+01DEC; Ezra 5-6; Psalm 95; 3 John
+02DEC; Esther 1-3; Psalm 139; Revelation 1
+03DEC; Esther 4-6; Rev 2
 
 WEEK 49
-07DEC; Esther 7-10; Revelation 3
-08DEC; Ezra 7-10; Psalm 97; Rev 4
-09DEC; Nehemiah 1-3; Rev 5
-10DEC; Neh 4-6; Psalm 98; Rev 6
-11DEC; Neh 7-9; Psalm 140; Rev 7
+06DEC; Esther 7-10; Revelation 3
+07DEC; Ezra 7-10; Psalm 97; Rev 4
+08DEC; Nehemiah 1-3; Rev 5
+09DEC; Neh 4-6; Psalm 98; Rev 6
+10DEC; Neh 7-9; Psalm 140; Rev 7
 
 WEEK 50
-14DEC; Neh 10-13; Revelation 8
-15DEC; Malachi; Psalm 2; Rev 9
-16DEC; Job 1-3; Psalm 29; Rev 10
-17DEC; Job 4-7; Psalm 99; Rev 11
-18DEC; Job 8-11; Rev 12
+13DEC; Neh 10-13; Revelation 8
+14DEC; Malachi; Psalm 2; Rev 9
+15DEC; Job 1-3; Psalm 29; Rev 10
+16DEC; Job 4-7; Psalm 99; Rev 11
+17DEC; Job 8-11; Rev 12
 
 WEEK 51
-21DEC; Job 12-14; Psalm 100; Rev 13
-22DEC; Job 15-17; Rev 14
-23DEC; Job 18-20; Psalm 141; Rev 15
-24DEC; Job 21-23; Psalm 101; Rev 16
-25DEC; Job 24-27; Rev 17
+20DEC; Job 12-14; Psalm 100; Rev 13
+21DEC; Job 15-17; Rev 14
+22DEC; Job 18-20; Psalm 141; Rev 15
+23DEC; Job 21-23; Psalm 101; Rev 16
+24DEC; Job 24-27; Rev 17
 
 WEEK 52
-28DEC; Job 28-30; Revelation 18
-29DEC; Job 31-33; Psalm 102; Rev 19
-30DEC; Job 34-36; Rev 20
-31DEC; Job 37-39; Psalm 103; Rev 21
-32DEC; Job 40-42; Psalm 150; Rev 22
+27DEC; Job 28-30; Revelation 18
+28DEC; Job 31-33; Psalm 102; Rev 19
+29DEC; Job 34-36; Rev 20
+30DEC; Job 37-39; Psalm 103; Rev 21
+31DEC; Job 40-42; Psalm 150; Rev 22
+
