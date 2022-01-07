@@ -130,20 +130,14 @@ EOF
 }
 
 case "$1" in
-  -l) listpassages $2 ;;
-  --list) listpassages $2 ;;
-  -f) filedetails show ;; 
-  --file) filedetails show ;; 
-  -e) filedetails edit ;;
-  --edit) filedetails edit ;;
-  -m) filedetails make $2 ;;
-  --make) filedetails make $2 ;;
-  -h) help ;;
-  --help) help ;;
+  -l|--list) listpassages $2 ;;
+  -f|--file) filedetails show ;; 
+  -e|--edit) filedetails edit ;;
+  -m|--make) filedetails make $2 ;;
+  -h|--help) help ;;
   #*) readpassages $1 ;;
   *) case "$2" in
-    -l) listpassages $1 ;;
-    --list) listpassages $1 ;;
+    -l|--list) listpassages $1 ;;
     *) readpassages $1 ;;
   esac
 esac
